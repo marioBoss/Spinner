@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerI</string>
+    <string name="btn_mostrar">Mostrar</string>
+    <string name="tst_mensaje">Ha seleccionado la operación: </string>
+    <string name="suma">Sumar</string>
+    <string name="resta">Restar </string>
+    <string name="mutiplicar">Multiplicar</string>
+    <string name="divifir">Dividir</string>
+</resources>
